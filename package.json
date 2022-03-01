@@ -1,0 +1,12 @@
+{
+  "name": "@codexporer.io/expo-app-runtime-events",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "peerDependencies": {
+    "react": "*",
+    "@codexporer.io/expo-app-info": "*",
+    "react-sweet-state": "*",
+    "expo-secure-store": "*",
+    "lodash": "*"
+  }
+}
